@@ -9,6 +9,12 @@ A personal finance dashboard built with React and TypeScript. It shows income, s
 
 The charts are hand-written SVG, so the app ships with no charting library. Money is stored as integer cents, which keeps totals exact.
 
+## Live demo
+
+**https://sami1507.github.io/react-expense-dashboard/**
+
+The demo is deployed from `main` by the `Deploy live demo` workflow. It uses the generated sample data, so it runs with no backend.
+
 ## Features
 
 - **Summary cards** for income, spending, net result and savings rate
